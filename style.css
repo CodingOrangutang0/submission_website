@@ -8,8 +8,12 @@ input {
     bottom: 390px;
 }
 
-
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
+
 
 div {
 
@@ -22,7 +26,7 @@ body {
     background-size: cover;
     background-position: 0px;
     background-position-y:120px;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat
     
 }
 

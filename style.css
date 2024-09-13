@@ -3,9 +3,19 @@ p.big {
     font-family: sans-serif;
 }
 input {
-    position: absolute;
+    position: relative;
     left: 606px;
     bottom: 390px;
+}
+
+
+}
+
+div {
+
+}
+@media (min-width: 600px {
+    
 }
 body {
     background-image: url("background.jpg");
@@ -25,10 +35,10 @@ textarea {
     
 }
 img {
-    position: absolute;
+    position: relative;
 }
 p {
-    position: absolute;
+    position: relative;
     top: -50px;
     left: 700px;
 }
